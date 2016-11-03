@@ -6,9 +6,23 @@ html
   padding: 0;}
 
 body
-{ font: normal .80em 'trebuchet ms', arial, sans-serif;
+{  margin:0;
+   padding:0;
+   height:100%;
+  
+  font: normal .80em 'trebuchet ms', arial, sans-serif;
   background: #FFF;
   color: #555;}
+
+#body {
+   padding:10px;
+   padding-bottom:60px;   /* Height of the footer */
+}
+
+#container {
+   min-height:100%;
+   position:relative;
+}
 
 p
 { padding: 0 0 20px 0;
@@ -98,7 +112,8 @@ ol li
   margin-right: auto;}
 
 #header
-{ background: #000;
+{ padding:10px;
+  background: #000;
   border-bottom: 1px solid #3d3d3d;
   height: 186px;}
   
