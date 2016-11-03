@@ -104,11 +104,8 @@ ol li
 
 #main, #logo, #menubar, #site_content, #footer
 { margin-left: auto; 
-  margin-right: auto;}
-
-#main{
-    padding-bottom:180px;
-}
+  margin-right: auto;
+  padding-bottom:180px;}
 
 #header
 { background: #000;
