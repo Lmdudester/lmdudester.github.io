@@ -102,17 +102,10 @@ ol li
   text-align: center;
   margin: 20px auto;}
 
-#logo, #menubar, #site_content, #footer
+#main, #logo, #menubar, #site_content, #footer
 { margin-left: auto; 
   margin-right: auto;
   }
-
-#main
-{ margin-left: auto; 
-  margin-right: auto;
-  padding-bottom:180px;
-  }
-
 
 #header
 { background: #000;
