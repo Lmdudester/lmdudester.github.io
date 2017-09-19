@@ -240,7 +240,7 @@ ul#menu li a:hover
   line-height: 1.5em;}
 
 #footer
-{ position: absolute;
+{ position: fixed;
   overflow:hidden;
   left 0;
   bottom: 0;
