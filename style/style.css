@@ -241,6 +241,8 @@ ul#menu li a:hover
 
 #footer
 { position: absolute;
+  overflow:hidden;
+  left 0;
   bottom: 0;
   width: 100%;
   font-family: 'trebuchet ms', sans-serif;
