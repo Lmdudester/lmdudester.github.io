@@ -240,8 +240,8 @@ ul#menu li a:hover
   line-height: 1.5em;}
 
 #footer
-{ position:absolute;
-  bottom:0;
+{ position: absolute;
+  bottom: 0;
   width: 100%;
   font-family: 'trebuchet ms', sans-serif;
   font-size: 100%;
